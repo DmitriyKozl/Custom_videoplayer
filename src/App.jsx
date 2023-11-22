@@ -155,7 +155,7 @@ function App() {
               onSeek={handlePlayerSeek}
               onSeekMouseUp={handlePlayerMouseSeekUp}
             />
-          </div>
+          </div> 
           <Grid
             container
             direction="row"
